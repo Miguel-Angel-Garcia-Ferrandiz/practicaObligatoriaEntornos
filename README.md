@@ -1,3 +1,5 @@
-# Telares del siglo XIX
+# Telares del Siglo XIX
 
-[Ir a inicio](introduccion.md)
+En el siguiente enlace puedes encontrar información respecto a los telares del Siglo XIX.
+
+[Ir a introducción](introduccion.md)
