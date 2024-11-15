@@ -11,4 +11,4 @@ El empleo en las fábricas de textiles aumentó significativamente, lo que llev�
 ## Consecuencias Económicas
 El aumento en la producción textil redujo los costos y permitió que los productos fueran accesibles para un mayor número de personas.
 
-[Voler al inicio](introduccion.md)
+[Volver al inicio](introduccion.md)
