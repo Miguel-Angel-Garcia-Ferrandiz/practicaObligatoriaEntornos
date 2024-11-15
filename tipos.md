@@ -16,4 +16,4 @@ Inventado por Joseph Marie Jacquard en 1804, este telar utilizaba tarjetas perfo
 ## Telar de Agua
 Utilizado principalmente en fábricas situadas cerca de fuentes de agua, este tipo de telar aprovechaba la energía hidráulica para su funcionamiento.
 
-[Voler al inicio](introduccion.md)
+[Volver al inicio](introduccion.md)
